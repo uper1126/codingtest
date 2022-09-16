@@ -1,7 +1,8 @@
+//test
 #include <iostream>
 using namespace std;
 
-int n, m;
+int n, m, k, test;
 int n_arr[1000];
 int bt[3];
 int ans = 0;
